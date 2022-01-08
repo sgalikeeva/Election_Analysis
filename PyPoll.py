@@ -93,3 +93,8 @@ with open(file_to_save, "w") as txt_file:
     print(winning_candidate_summary)
     # Save the winning candidate's name to the text file.
     txt_file.write(winning_candidate_summary)
+
+# Additional data requested for Challenge:
+# The voter turnout for each county
+# The percentage of votes from each county out of the total count
+# The county with the highest turnout
