@@ -59,7 +59,8 @@ The election outcomes were as follows:
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes? 
     - Dianna DeGette won the election, receiving 73.8% percent of the total votes and 272,892 votes.
 
-These results are supported by the terminal output from Visual Studio Code and the text file output from the analysis. [Click here to see the text file output.](Analysis/election_analysis.txt)
+These results are supported by the terminal output from Visual Studio Code and the text file output from the analysis. [Click here to see the text file output.](Analysis/election_analysis.txt) The terminal output is as follows:  
+![This is an image](Resources/VSCode_terminal_output_screenshot.png)
 
 ## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 The script that was created is able to give you data on votes, candidates and counties. With some modifications the script can be used for any election, whether the election is local, municipal or federal. To use this script for a different election, the first most modification will come from the path to the data. Replace the existing path to the correct data file. ![This is an image](Resources/data_file_path_screenshot.png)
